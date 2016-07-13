@@ -1,3 +1,9 @@
+#About Project
+
+This project is mainly to coding from [offcial website](https://oj.leetcode.com/problems). You can submit code online. This project is only for learn to study, without any commercial use. 
+
+This repository will be maintained for a long time. Of course, there are many mistakes and shortcomings, we can learn and progress together, thank you!
+
 #About us
 
 This project was done by [@Aesthetic92](https://github.com/aesthetic92) and [@Soverying](https://github.com/Soverying).
